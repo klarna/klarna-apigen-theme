@@ -1,9 +1,11 @@
 {
-	"name": "apigen/theme-bootstrap",
-	"description": "Twitter Bootstrap theme for ApiGen",
-	"homepage": "http://apigen.org/",
+	"name": "klarna/apigen-theme",
+	"description": "Klarna theme for ApiGen",
+	"homepage": "http://klarna.com/",
 	"license": "MIT",
 	"authors": [
+		{ "name": "David Keijser", "email": "david.keijser@klarna.com" },
+		{ "name": "Petros Gkourasas", "email": "petros.gkourasas@klarna.com" },
 		{ "name": "Tomáš Votruba", "email": "tomas.vot@gmail.com" },
 		{ "name": "Olivier Laviale", "homepage": "https://github.com/olvlvl" }
 	],
